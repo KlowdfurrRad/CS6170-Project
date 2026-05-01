@@ -1,0 +1,48 @@
+# GPU Median-Finding Benchmark Log (CUDA Sampling n^{3/4})
+# ====================================================================
+
+--- tc_01_n100.txt  (n=100) ---
+  [GPU-Sampling-n^{3/4}] tc_01_n100.txt | median=-3142622 | time=0.005205s
+
+--- tc_02_n500.txt  (n=500) ---
+  [GPU-Sampling-n^{3/4}] tc_02_n500.txt | median=-29128697 | time=0.005160s
+
+--- tc_03_n1000.txt  (n=1,000) ---
+  [GPU-Sampling-n^{3/4}] tc_03_n1000.txt | median=10143302 | time=0.007540s
+
+--- tc_04_n5000.txt  (n=5,000) ---
+  [GPU-Sampling-n^{3/4}] tc_04_n5000.txt | median=-6756816 | time=0.004785s
+
+--- tc_05_n10000.txt  (n=10,000) ---
+  [GPU-Sampling-n^{3/4}] tc_05_n10000.txt | median=-9290067 | time=0.005205s
+
+--- tc_06_n50000.txt  (n=50,000) ---
+  [GPU-Sampling-n^{3/4}] tc_06_n50000.txt | median=-11030917 | time=0.005398s
+
+--- tc_07_n100000.txt  (n=100,000) ---
+  [GPU-Sampling-n^{3/4}] tc_07_n100000.txt | median=3124119 | time=0.008648s
+
+--- tc_08_n250000.txt  (n=250,000) ---
+  [GPU-Sampling-n^{3/4}] tc_08_n250000.txt | median=4217903 | time=0.005594s
+
+--- tc_09_n500000.txt  (n=500,000) ---
+  [GPU-Sampling-n^{3/4}] tc_09_n500000.txt | median=-848772 | time=0.008010s
+
+--- tc_10_n1000000.txt  (n=1,000,000) ---
+  [GPU-Sampling-n^{3/4}] tc_10_n1000000.txt | median=209274 | time=0.009510s
+
+--- tc_11_n2000000.txt  (n=2,000,000) ---
+  [GPU-Sampling-n^{3/4}] tc_11_n2000000.txt | median=-514778 | time=0.011449s
+
+--- tc_12_n5000000.txt  (n=5,000,000) ---
+  [GPU-Sampling-n^{3/4}] tc_12_n5000000.txt | median=487985 | time=0.019142s
+
+--- tc_13_n10000000.txt  (n=10,000,000) ---
+  [GPU-Sampling-n^{3/4}] tc_13_n10000000.txt | median=108525 | time=0.032345s
+
+--- tc_14_n25000000.txt  (n=25,000,000) ---
+  [GPU-Sampling-n^{3/4}] tc_14_n25000000.txt | median=139378 | time=0.068869s
+
+--- tc_15_n50000000.txt  (n=50,000,000) ---
+  [GPU-Sampling-n^{3/4}] tc_15_n50000000.txt | median=-86718 | time=0.152598s
+
